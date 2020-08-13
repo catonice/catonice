@@ -11,10 +11,10 @@ Check out my WhatsApp Sticker App inspired by Dark Souls -> [DS Stickers](https:
 
 ## Social Media Links
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/meganhumphreys/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/meganhumphreys/" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/meganhumphreys/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/meganhumphreys/" height="30" width="30" /></a>
 </p>
 <p align="left">
-<a href="https://www.behance.net/https://www.behance.net/meganhumphreys" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="https://www.behance.net/meganhumphreys" height="30" width="30" /></a>
+<a href="https://www.behance.net/meganhumphreys" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="https://www.behance.net/meganhumphreys" height="30" width="30" /></a>
 </p>
 
 
